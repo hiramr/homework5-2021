@@ -104,7 +104,7 @@ a:hover{
 
 /* Remainder of requirements here: */
 #main{
-  background-image: url(/Users/hiram/Desktop/hw5-2021-main/images/header.jpg);
+  background-image: url(https://hiramr.github.io/homework5-2021/images/header.jpg);
   background-attachment: fixed; /* Parallax effect */
   background-position: center; /* Parallax effect */
   background-repeat: no-repeat;
