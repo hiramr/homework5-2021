@@ -64,10 +64,9 @@ nav a{
 }
 
 /* Requirement 2 code here*/
-a:hover{
+nav a:hover{
   text-decoration: underline;
 }
-
 
 
 
@@ -84,7 +83,12 @@ a:hover{
   overflow: hidden;
   
 }
-
+.skip a:hover{
+    text-decoration: underline;
+}
+.skip a:focus{
+    position: static;
+}
 /* Requirement 3b code here*/
 
 /* Requirement 4 code here*/
